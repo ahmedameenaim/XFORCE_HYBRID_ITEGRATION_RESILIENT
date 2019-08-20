@@ -1,0 +1,4 @@
+include README.md
+include fn_xforce_hybrid/util/*
+include fn_xforce_hybrid/LICENSE
+include doc/*
